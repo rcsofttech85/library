@@ -1,0 +1,19 @@
+{
+    "name": "rcsofttech85/madness",
+    "description": "full of madness",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rcsofttech85\\Madness\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rahul",
+            "email": "rcsofttech85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
